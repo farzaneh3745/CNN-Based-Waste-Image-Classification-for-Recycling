@@ -1,0 +1,2 @@
+Dataset Name,Dataset Path,Total Images,Number of Classes,Image Type,Target Image Size,Task
+Garbage Classification,/kaggle/input/datasets/mostafaabla/garbage-classification/garbage_classification,15515,12,RGB color images,224x224,Multi-class image classification

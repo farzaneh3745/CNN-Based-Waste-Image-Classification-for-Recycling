@@ -1,0 +1,8 @@
+Model,Layer Name,Layer Type,Output Shape,Parameters
+mobilenetv2,input_layer_2,InputLayer,N/A,0
+mobilenetv2,data_augmentation,Sequential,"(None, 224, 224, 3)",0
+mobilenetv2,mobilenetv2_preprocess,Lambda,N/A,0
+mobilenetv2,mobilenetv2_1.00_224,Functional,"(None, 7, 7, 1280)",2257984
+mobilenetv2,global_average_pooling2d_1,GlobalAveragePooling2D,N/A,0
+mobilenetv2,dropout_1,Dropout,N/A,0
+mobilenetv2,dense_2,Dense,N/A,15372

@@ -1,0 +1,12 @@
+Model,Layer Name,Layer Type,Output Shape,Parameters
+custom_cnn,data_augmentation,Sequential,"(None, 224, 224, 3)",0
+custom_cnn,conv2d,Conv2D,N/A,896
+custom_cnn,max_pooling2d,MaxPooling2D,N/A,0
+custom_cnn,conv2d_1,Conv2D,N/A,18496
+custom_cnn,max_pooling2d_1,MaxPooling2D,N/A,0
+custom_cnn,conv2d_2,Conv2D,N/A,73856
+custom_cnn,max_pooling2d_2,MaxPooling2D,N/A,0
+custom_cnn,global_average_pooling2d,GlobalAveragePooling2D,N/A,0
+custom_cnn,dense,Dense,N/A,16512
+custom_cnn,dropout,Dropout,N/A,0
+custom_cnn,dense_1,Dense,N/A,1548

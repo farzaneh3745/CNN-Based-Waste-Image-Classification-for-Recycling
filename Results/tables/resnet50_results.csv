@@ -1,0 +1,2 @@
+Model,Test Accuracy,Test Precision,Test Recall,Test F1-score,Training Time (seconds),Parameters
+resnet50,0.9544673539518901,0.9553009311769203,0.9544673539518901,0.9545168424550553,844.0415894985199,23612300

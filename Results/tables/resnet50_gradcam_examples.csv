@@ -1,0 +1,5 @@
+Model,Status,True Label,Predicted Label,Confidence
+resnet50,Correct,trash,trash,0.999961256980896
+resnet50,Correct,metal,metal,0.7738438844680786
+resnet50,Incorrect,cardboard,battery,0.7047037482261658
+resnet50,Incorrect,clothes,trash,0.9334438443183899
