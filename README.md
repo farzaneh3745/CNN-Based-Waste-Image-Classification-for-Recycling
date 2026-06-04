@@ -68,6 +68,12 @@ MobileNetV2 was used as a transfer learning model. The pre-trained base was froz
 
 ResNet50 was also used as a transfer learning model. It was used to compare a deeper pre-trained model with Custom CNN and MobileNetV2.
 
+## Model Files
+
+The `models` folder contains the saved model files for Custom CNN and MobileNetV2.
+
+The ResNet50 model file is large, so it is available in the GitHub Releases section.
+
 ## Evaluation Metrics
 
 The models were evaluated using:
