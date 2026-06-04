@@ -1,5 +1,5 @@
 Model,Status,True Label,Predicted Label,Confidence
 mobilenetv2,Correct,trash,trash,0.999923586845398
 mobilenetv2,Correct,metal,metal,0.9230597019195557
-mobilenetv2,Incorrect,cardboard,paper,0.5253393054008484
+mobilenetv2,Incorrect,cardboard,paper,0.5253392457962036
 mobilenetv2,Incorrect,clothes,trash,0.9945374131202698

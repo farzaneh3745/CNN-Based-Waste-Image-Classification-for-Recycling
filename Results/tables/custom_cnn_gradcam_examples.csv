@@ -1,5 +1,5 @@
 Model,Status,True Label,Predicted Label,Confidence
-custom_cnn,Correct,trash,trash,0.756384015083313
-custom_cnn,Correct,clothes,clothes,0.7569884061813354
-custom_cnn,Incorrect,metal,shoes,0.26931843161582947
-custom_cnn,Incorrect,metal,shoes,0.296552449464798
+custom_cnn,Correct,trash,trash,0.739812433719635
+custom_cnn,Correct,clothes,clothes,0.6969016790390015
+custom_cnn,Incorrect,metal,shoes,0.3056163489818573
+custom_cnn,Incorrect,metal,shoes,0.2610034942626953
